@@ -1,4 +1,8 @@
-.Rproj.user
+.Ruserdata
+# R session junk
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+
+# Rendered output
+*.html
